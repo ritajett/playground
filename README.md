@@ -1,7 +1,7 @@
 # Rita Jett Borelli / resume
 
 ## Preview
-![Resume Preview](https://github.com/ritajett/ritajett.github.io/blob/master/img/ResumePreview.png?raw=true)]
+![Resume Preview](https://github.com/ritajett/ritajett.github.io/blob/master/img/ResumePreview.png?raw=true)
 
 
 ## Built on Bootstrap
