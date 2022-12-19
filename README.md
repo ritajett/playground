@@ -1,4 +1,6 @@
-# Rita Jett Borelli / resume
+# Rita Jett Borelli 
+
+Visit the site: [https://www.ritajett.com/](https://www.ritajett.com/)
 
 ## Preview
 ![Resume Preview](https://github.com/ritajett/ritajett.github.io/blob/master/img/ResumePreview.png?raw=true)
